@@ -1,0 +1,55 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Xcode
+*.xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData/
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Firebase
+GoogleService-Info.plist
+
+# Crashlytics
+*.dSYM.zip
+*.dSYM
+
+# Archives
+*.xcarchive
+
+# Generated
+*.hmap
+*.ipa
+
+# Temporary
+*.swp
+*.swo
+*.tmp
+
+# Optional user-specific stuff
+.idea/
+.vscode/
+*.xcodeproj/project.xcworkspace/xcuserdata/
